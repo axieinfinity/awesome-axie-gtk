@@ -9,7 +9,7 @@ An awesome-style list of cool `Axie Generator Tool Kit`.
 * [cc-axie-gtk2d](https://github.com/axieinfinity/cc-axie-gtk2d): cocos creator template project
 
 ### 3D
-* Soon...
+* [unity-axie-starter-3d](https://github.com/axieinfinity/unity-axie-starter-3d-demo): unity demo used axie starter 3d
 
 ### Analytic
 * [tracking-sdk](https://github.com/axieinfinity/unity-axie-tracking): Tracking SDK for Unity
