@@ -11,6 +11,7 @@ An awesome-style list of cool `Axie Generator Tool Kit`.
 ### 3D
 * [unity-axie-starter-3d](https://github.com/axieinfinity/unity-axie-starter-3d-demo): unity demo used axie starter 3d
 * [r3f-axie-starter](https://github.com/axieinfinity/r3f-axie-starter): threejs demo used axie starter 3d
+* [fbx-axie-starter](https://github.com/axieinfinity/axie-starter-3d-assets): fbx model of axie starter 3d
 
 ### Analytic
 * [tracking-sdk](https://github.com/axieinfinity/unity-axie-tracking): Tracking SDK for Unity
