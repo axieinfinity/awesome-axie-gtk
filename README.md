@@ -13,5 +13,8 @@ An awesome-style list of cool `Axie Generator Tool Kit`.
 * [r3f-axie-starter](https://github.com/axieinfinity/r3f-axie-starter): threejs demo used axie starter 3d
 * [fbx-axie-starter](https://github.com/axieinfinity/axie-starter-3d-assets): fbx model of axie starter 3d
 
+### Multiplayer
+* [cc-axie-colyseus-demo](https://github.com/axieinfinity/cc-axie-colyseus-demo): example `Axie artillery` game with Cocos Creator and Colyseus
+
 ### Analytic
 * [tracking-sdk](https://github.com/axieinfinity/unity-axie-tracking): Tracking SDK for Unity
