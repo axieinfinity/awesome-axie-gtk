@@ -14,7 +14,8 @@ An awesome-style list of cool `Axie Generator Tool Kit`.
 * [fbx-axie-starter](https://github.com/axieinfinity/axie-starter-3d-assets): fbx model of axie starter 3d
 
 ### Multiplayer
-* [cc-axie-colyseus-demo](https://github.com/axieinfinity/cc-axie-colyseus-demo): example `Axie artillery` game with Cocos Creator and Colyseus
+* [cc-axie-colyseus-demo](https://github.com/axieinfinity/cc-axie-colyseus-demo): example `Axie artillery` game with Cocos Creator and [Colyseus](https://colyseus.io/)
+* [r3f-axie-playroom-demo](https://codesandbox.io/p/sandbox/axie-starter-playroom-4fkdxd): example multiplayer game with axie starter 3d and [Playroom](https://joinplayroom.com/)
 
 ### Analytic
 * [tracking-sdk](https://github.com/axieinfinity/unity-axie-tracking): Tracking SDK for Unity
